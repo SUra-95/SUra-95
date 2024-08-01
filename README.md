@@ -7,5 +7,5 @@
 
 ### My stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SUra-95&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sura-95&show_icons=true&include_all_commits=true&theme=dracula" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUra-95&&exclude_repo=SUra-95&layout=compact&theme=dracula" alt="languages"/>
