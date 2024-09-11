@@ -1,3 +1,4 @@
+![Suranjan-Banner](assets/suranjan-banner.webp)
 <h1 align="center">Hi 👋, I'm Suranjan De Silva</h1>
 <h3 align="center"> 🖥 I'm a Associate Software Engineer</h3>
 
