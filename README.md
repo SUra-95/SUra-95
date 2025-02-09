@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SUra-95&label=Profile%20views&color=0e75b6&style=flat" alt="suranjan" /> </p>
 
-- 🌱 I’m currently learning ** Flutter , NextJs, Springboot**
+- 🌱 I’m currently learning ** Flutter , NextJs**
 
 - 👨‍💻  Currently working as an Associate Software Developer at Sanmark Solutions Pvt Ltd.
 
