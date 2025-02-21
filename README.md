@@ -1,4 +1,5 @@
 ![Suranjan-Banner](assets/suranjan-banner.webp)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <span> Hey, Nice to see you. </span> </h1>
 <h1 align="center">Hi 👋, I'm Suranjan De Silva</h1>
 <h3 align="center"> 🖥 I'm a Associate Software Engineer</h3>
 
